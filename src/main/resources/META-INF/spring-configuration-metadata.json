@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "lock.prefix",
+      "type": "java.lang.String",
+      "description": "lock redis key perfix",
+      "sourceType": "top.zxx.utils.lock.autoconfigure.LockProperties",
+      "defaultValue": ""
+    }
+  ]
+}
